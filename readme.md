@@ -22,22 +22,30 @@ The objective of this project is to create a chatbot using the FLAN-T5-XL model 
    python -m venv venv
    ```
 
-Activate the virtual environment:
+**Activate the virtual environment:**
 On Windows:
 
-``` .\venv\Scripts\activate ```
+``` 
+.\venv\Scripts\activate
+ ```
 
 On Linux/Mac:
 
-``` source venv/bin/activate ```
+```
+source venv/bin/activate
+ ```
 
 Install the necessary Python packages:
 
 
-``` pip install -r requirements.txt ```
+``` 
+pip install -r requirements.txt
+ ```
 
 Run the Streamlit app:
-``` streamlit run app.py ```
+``` 
+streamlit run app.py
+```
 
 
 Open your web browser and go to http://localhost:8501.  

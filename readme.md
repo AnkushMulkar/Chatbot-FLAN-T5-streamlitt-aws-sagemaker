@@ -24,12 +24,12 @@ The objective of this project is to create a chatbot using the FLAN-T5-XL model 
 
 Activate the virtual environment:
 On Windows:
-```
-.\venv\Scripts\activate```
+
+``` .\venv\Scripts\activate ```
 
 On Linux/Mac:
 
-```source venv/bin/activate```
+``` source venv/bin/activate ```
 
 Install the necessary Python packages:
 
@@ -43,13 +43,14 @@ Run the Streamlit app:
 Open your web browser and go to http://localhost:8501.  
 You will see the chatbot interface with a text input field and a "Send" button.  
 Type your message in the text input field and click "Send" to get a response from the chatbot.  
-The chat history will be displayed in a text area below the chat input field.  
-Contributing  
+The chat history will be displayed in a text area below the chat input field.
+
+## Contributing  
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.  
 
-License  
+## License  
 This project is open-source and available under the MIT License.  
 
-Acknowledgements
+## Acknowledgments
 The pretrained FLAN-T5-XL model is provided by Hugging Face.  
 The initial version of this chatbot was created as a part of a collaborative project.  
